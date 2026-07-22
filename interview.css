@@ -3,6 +3,18 @@
     justify-content: center;
     gap: 90px;
 }
+.testimonies{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+.words{
+    text-align: center;
+}
+
+footer{
+    background-color: goldenrod;
+}
 
 
 
